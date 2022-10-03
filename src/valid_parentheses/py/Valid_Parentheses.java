@@ -4,6 +4,7 @@ import java.util.Stack;
 
 public class Valid_Parentheses {
 	
+	// @ Author :- Vikram hene
 	
 	public static boolean isValid(String s) {
 		
